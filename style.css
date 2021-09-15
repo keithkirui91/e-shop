@@ -1,0 +1,13 @@
+.carousel-item{
+    height: 25rem;
+
+}
+
+.container{
+    display: flex;
+
+}
+.card{
+    flex: 33.3%;
+    padding: 2rem;
+}
