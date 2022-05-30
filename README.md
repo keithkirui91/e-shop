@@ -19,7 +19,9 @@ no known bugs
 Technologies Used
 HTML
 CSS
-JAVASCRIPT.
+JAVASCRIPT
+PHP
+
 CONTRIBUTORS
 Keith Kirui
 
